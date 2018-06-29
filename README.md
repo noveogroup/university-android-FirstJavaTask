@@ -16,9 +16,9 @@
 1. Скопировать https ссылку для клонирования репозитория
 2. Открыть Gitlab, и нажать `New Project`
 3. На странице создания выбрать:
-    * Create from template - Blank
-    * Import project from - Repo by URL
-    * Project name - {account}-kotlin-01, где account - ваше короткое имя
+    * Create from template - `Blank`
+    * Import project from - `Repo by URL` - вставляем скопированную ссылку.
+    * Project name - `{account}-kotlin-01`, где account - ваше короткое имя
 4. Нажать `Create project`
 5. Теперь можно клонировать проект из вашего собственного репозитория
 
